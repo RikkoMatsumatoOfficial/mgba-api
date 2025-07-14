@@ -133,3 +133,8 @@ The API supports the following commands:
     api->press_key_once(GBA_A); // 100ms is the default delay here until the key will be released
   ```
 
+## Donations
+
+[LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
+
+**BTC Wallet Address**: bc1qz987mqatjrhuurme49sleq75a80atysgyska9e
